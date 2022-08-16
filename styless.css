@@ -1,0 +1,24 @@
+body{
+
+    background-color: rgb(135, 143, 140);
+}
+
+h1{
+
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+/*Comenatirio en CSS */
+
+.p1{
+    font-style: italic;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
